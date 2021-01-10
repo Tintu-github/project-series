@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="D:\Selenium\Java11" version="11.0.6"/>
+<libraryInfo home="D:\Selenium\Java8\New folder" version="1.8.0_241">
+<bootpath>
+<entry path="D:\Selenium\Java8\New folder\lib\resources.jar"/>
+<entry path="D:\Selenium\Java8\New folder\lib\rt.jar"/>
+<entry path="D:\Selenium\Java8\New folder\lib\sunrsasign.jar"/>
+<entry path="D:\Selenium\Java8\New folder\lib\jsse.jar"/>
+<entry path="D:\Selenium\Java8\New folder\lib\jce.jar"/>
+<entry path="D:\Selenium\Java8\New folder\lib\charsets.jar"/>
+<entry path="D:\Selenium\Java8\New folder\lib\jfr.jar"/>
+<entry path="D:\Selenium\Java8\New folder\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="D:\Selenium\Java8\New folder\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="D:\Selenium\Java8\New folder\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="D:\Selenium\java13" version="13.0.2"/>
+</libraryInfos>
